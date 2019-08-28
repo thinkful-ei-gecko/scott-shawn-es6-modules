@@ -1,0 +1,24 @@
+{
+  "name": "shopping-list-starter",
+  "version": "1.0.0",
+  "description": "Created for the Thinkful EI Program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-gecko/scott-shawn-es6-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-gecko/scott-shawn-es6-modules/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-gecko/scott-shawn-es6-modules#readme",
+  "dependencies": {
+    "cuid": "^2.1.6",
+    "jquery": "^3.4.1"
+  }
+}
