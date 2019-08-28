@@ -1,6 +1,6 @@
 import store from './store';
 import api from './api';
-import shoppingList from '.shopping-list';
+import shoppingList from './shopping-list';
 import $ from 'jquery';
 
 $(document).ready(function() {
